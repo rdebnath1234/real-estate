@@ -1,8 +1,8 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';
-import 'package:riyadebnathdas_56313_s_application5/core/utils/progress_dialog_utils.dart';
-import 'package:riyadebnathdas_56313_s_application5/data/models/login/post_login_resp.dart';
-import 'package:riyadebnathdas_56313_s_application5/data/models/me/get_me_resp.dart';
-import 'package:riyadebnathdas_56313_s_application5/data/models/register/post_register_resp.dart';
+import 'package:real_estate/core/app_export.dart';
+import 'package:real_estate/core/utils/progress_dialog_utils.dart';
+import 'package:real_estate/data/models/login/post_login_resp.dart';
+import 'package:real_estate/data/models/me/get_me_resp.dart';
+import 'package:real_estate/data/models/register/post_register_resp.dart';
 
 class ApiClient extends GetConnect {
   var url = "https://nodedemo.dhiwise.co";

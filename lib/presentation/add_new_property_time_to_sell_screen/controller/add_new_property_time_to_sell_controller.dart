@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/add_new_property_time_to_sell_screen/models/add_new_property_time_to_sell_model.dart';import 'package:flutter/material.dart';class AddNewPropertyTimeToSellController extends GetxController {TextEditingController durationController = TextEditingController();
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/add_new_property_time_to_sell_screen/models/add_new_property_time_to_sell_model.dart';import 'package:flutter/material.dart';class AddNewPropertyTimeToSellController extends GetxController {TextEditingController durationController = TextEditingController();
 
 TextEditingController streetaddressController = TextEditingController();
 

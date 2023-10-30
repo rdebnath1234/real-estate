@@ -1,8 +1,8 @@
 import '../controller/home_alarm_controller.dart';
 import '../models/home_alarm_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';
-import 'package:riyadebnathdas_56313_s_application5/widgets/custom_icon_button.dart';
+import 'package:real_estate/core/app_export.dart';
+import 'package:real_estate/widgets/custom_icon_button.dart';
 
 // ignore: must_be_immutable
 class HomeAlarmItemWidget extends StatelessWidget {

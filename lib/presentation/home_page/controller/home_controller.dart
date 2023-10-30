@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/home_page/models/home_model.dart';import 'package:flutter/material.dart';class HomeController extends GetxController {HomeController(this.homeModelObj);
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/home_page/models/home_model.dart';import 'package:flutter/material.dart';class HomeController extends GetxController {HomeController(this.homeModelObj);
 
 TextEditingController group34551Controller = TextEditingController();
 

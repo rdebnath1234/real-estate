@@ -1,5 +1,5 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';
-import 'package:riyadebnathdas_56313_s_application5/data/apiClient/api_client.dart';
+import 'package:real_estate/core/app_export.dart';
+import 'package:real_estate/data/apiClient/api_client.dart';
 
 /// A class for setting up initial dependencies using GetX dependency injection.
 ///

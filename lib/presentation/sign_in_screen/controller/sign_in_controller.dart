@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/sign_in_screen/models/sign_in_model.dart';import 'package:flutter/material.dart';import 'package:riyadebnathdas_56313_s_application5/data/models/login/post_login_resp.dart';import 'package:riyadebnathdas_56313_s_application5/data/apiClient/api_client.dart';class SignInController extends GetxController {TextEditingController phonenumberController = TextEditingController();
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/sign_in_screen/models/sign_in_model.dart';import 'package:flutter/material.dart';import 'package:real_estate/data/models/login/post_login_resp.dart';import 'package:real_estate/data/apiClient/api_client.dart';class SignInController extends GetxController {TextEditingController phonenumberController = TextEditingController();
 
 TextEditingController passwordController = TextEditingController();
 

@@ -1,4 +1,4 @@
-import 'controller/profile_controller.dart';import 'models/profile_model.dart';import 'package:flutter/material.dart';import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/widgets/app_bar/appbar_iconbutton_1.dart';import 'package:riyadebnathdas_56313_s_application5/widgets/app_bar/appbar_subtitle.dart';import 'package:riyadebnathdas_56313_s_application5/widgets/app_bar/custom_app_bar.dart';import 'package:riyadebnathdas_56313_s_application5/widgets/custom_icon_button.dart';
+import 'controller/profile_controller.dart';import 'models/profile_model.dart';import 'package:flutter/material.dart';import 'package:real_estate/core/app_export.dart';import 'package:real_estate/widgets/app_bar/appbar_iconbutton_1.dart';import 'package:real_estate/widgets/app_bar/appbar_subtitle.dart';import 'package:real_estate/widgets/app_bar/custom_app_bar.dart';import 'package:real_estate/widgets/custom_icon_button.dart';
 // ignore_for_file: must_be_immutable
 class ProfilePage extends StatelessWidget {ProfileController controller = Get.put(ProfileController(ProfileModel().obs));
 

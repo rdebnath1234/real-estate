@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/add_new_property_home_facts_screen/models/add_new_property_home_facts_model.dart';import 'package:flutter/material.dart';class AddNewPropertyHomeFactsController extends GetxController {TextEditingController inputController = TextEditingController();
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/add_new_property_home_facts_screen/models/add_new_property_home_facts_model.dart';import 'package:flutter/material.dart';class AddNewPropertyHomeFactsController extends GetxController {TextEditingController inputController = TextEditingController();
 
 TextEditingController inputOneController = TextEditingController();
 

@@ -1,9 +1,9 @@
 import '../controller/select_virtual_app_controller.dart';
 import '../models/listwhatsapp_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';
-import 'package:riyadebnathdas_56313_s_application5/widgets/custom_icon_button.dart';
-import 'package:riyadebnathdas_56313_s_application5/widgets/custom_text_form_field.dart';
+import 'package:real_estate/core/app_export.dart';
+import 'package:real_estate/widgets/custom_icon_button.dart';
+import 'package:real_estate/widgets/custom_text_form_field.dart';
 
 // ignore: must_be_immutable
 class ListwhatsappItemWidget extends StatelessWidget {

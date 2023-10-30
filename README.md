@@ -1,5 +1,5 @@
 
-# riyadebnathdas_56313_s_application5
+# real_estate
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)

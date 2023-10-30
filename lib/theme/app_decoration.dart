@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';
+import 'package:real_estate/core/app_export.dart';
 
 class AppDecoration {
   static BoxDecoration get txtFillGreen50019 => BoxDecoration(

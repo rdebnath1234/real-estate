@@ -1,7 +1,7 @@
 import '../controller/my_home_controller.dart';
 import '../models/my_home_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';
+import 'package:real_estate/core/app_export.dart';
 
 // ignore: must_be_immutable
 class MyHomeItemWidget extends StatelessWidget {

@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/add_new_property_address_screen/models/add_new_property_address_model.dart';import 'package:flutter/material.dart';class AddNewPropertyAddressController extends GetxController {TextEditingController propertyaddressTwoController = TextEditingController();
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/add_new_property_address_screen/models/add_new_property_address_model.dart';import 'package:flutter/material.dart';class AddNewPropertyAddressController extends GetxController {TextEditingController propertyaddressTwoController = TextEditingController();
 
 TextEditingController unitnumberController = TextEditingController();
 

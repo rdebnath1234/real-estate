@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/add_new_property_reason_selling_home_screen/models/add_new_property_reason_selling_home_model.dart';class AddNewPropertyReasonSellingHomeController extends GetxController {Rx<AddNewPropertyReasonSellingHomeModel> addNewPropertyReasonSellingHomeModelObj = AddNewPropertyReasonSellingHomeModel().obs;
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/add_new_property_reason_selling_home_screen/models/add_new_property_reason_selling_home_model.dart';class AddNewPropertyReasonSellingHomeController extends GetxController {Rx<AddNewPropertyReasonSellingHomeModel> addNewPropertyReasonSellingHomeModelObj = AddNewPropertyReasonSellingHomeModel().obs;
 
 Rx<bool> isCheckbox = false.obs;
 

@@ -1,4 +1,4 @@
-import 'package:get/get.dart';import 'listimg_item_model.dart';import 'listbeds_item_model.dart';import 'package:riyadebnathdas_56313_s_application5/data/models/selectionPopupModel/selection_popup_model.dart';import 'chipviewhome_item_model.dart';import 'options2_item_model.dart';class FilterModel {Rx<List<ListimgItemModel>> listimgItemList = Rx(List.generate(2,(index) => ListimgItemModel()));
+import 'package:get/get.dart';import 'listimg_item_model.dart';import 'listbeds_item_model.dart';import 'package:real_estate/data/models/selectionPopupModel/selection_popup_model.dart';import 'chipviewhome_item_model.dart';import 'options2_item_model.dart';class FilterModel {Rx<List<ListimgItemModel>> listimgItemList = Rx(List.generate(2,(index) => ListimgItemModel()));
 
 Rx<List<ListbedsItemModel>> listbedsItemList = Rx(List.generate(2,(index) => ListbedsItemModel()));
 

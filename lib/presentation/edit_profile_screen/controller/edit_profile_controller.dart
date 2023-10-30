@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/edit_profile_screen/models/edit_profile_model.dart';import 'package:flutter/material.dart';import 'package:riyadebnathdas_56313_s_application5/data/models/me/get_me_resp.dart';import 'package:riyadebnathdas_56313_s_application5/data/apiClient/api_client.dart';import 'package:fluttertoast/fluttertoast.dart';class EditProfileController extends GetxController {TextEditingController fullnameOneController = TextEditingController();
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/edit_profile_screen/models/edit_profile_model.dart';import 'package:flutter/material.dart';import 'package:real_estate/data/models/me/get_me_resp.dart';import 'package:real_estate/data/apiClient/api_client.dart';import 'package:fluttertoast/fluttertoast.dart';class EditProfileController extends GetxController {TextEditingController fullnameOneController = TextEditingController();
 
 TextEditingController emailOneController = TextEditingController();
 

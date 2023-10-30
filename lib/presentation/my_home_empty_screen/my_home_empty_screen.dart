@@ -1,13 +1,13 @@
 import 'controller/my_home_empty_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';
-import 'package:riyadebnathdas_56313_s_application5/presentation/home_page/home_page.dart';
-import 'package:riyadebnathdas_56313_s_application5/presentation/home_search_page/home_search_page.dart';
-import 'package:riyadebnathdas_56313_s_application5/presentation/message_page/message_page.dart';
-import 'package:riyadebnathdas_56313_s_application5/presentation/my_home_page/my_home_page.dart';
-import 'package:riyadebnathdas_56313_s_application5/presentation/profile_page/profile_page.dart';
-import 'package:riyadebnathdas_56313_s_application5/widgets/custom_bottom_bar.dart';
-import 'package:riyadebnathdas_56313_s_application5/widgets/custom_button.dart';
+import 'package:real_estate/core/app_export.dart';
+import 'package:real_estate/presentation/home_page/home_page.dart';
+import 'package:real_estate/presentation/home_search_page/home_search_page.dart';
+import 'package:real_estate/presentation/message_page/message_page.dart';
+import 'package:real_estate/presentation/my_home_page/my_home_page.dart';
+import 'package:real_estate/presentation/profile_page/profile_page.dart';
+import 'package:real_estate/widgets/custom_bottom_bar.dart';
+import 'package:real_estate/widgets/custom_button.dart';
 
 // ignore_for_file: must_be_immutable
 class MyHomeEmptyScreen extends GetWidget<MyHomeEmptyController> {

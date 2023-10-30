@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/filter_screen/models/filter_model.dart';import 'package:riyadebnathdas_56313_s_application5/widgets/custom_bottom_bar.dart';class FilterController extends GetxController {Rx<FilterModel> filterModelObj = FilterModel().obs;
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/filter_screen/models/filter_model.dart';import 'package:real_estate/widgets/custom_bottom_bar.dart';class FilterController extends GetxController {Rx<FilterModel> filterModelObj = FilterModel().obs;
 
 SelectionPopupModel? selectedDropDownValue;
 

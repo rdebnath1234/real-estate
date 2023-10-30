@@ -1,4 +1,4 @@
-import 'package:riyadebnathdas_56313_s_application5/core/app_export.dart';import 'package:riyadebnathdas_56313_s_application5/presentation/home_container_screen/models/home_container_model.dart';import 'package:riyadebnathdas_56313_s_application5/widgets/custom_bottom_bar.dart';class HomeContainerController extends GetxController {var token = Get.arguments[NavigationArgs.token];
+import 'package:real_estate/core/app_export.dart';import 'package:real_estate/presentation/home_container_screen/models/home_container_model.dart';import 'package:real_estate/widgets/custom_bottom_bar.dart';class HomeContainerController extends GetxController {var token = Get.arguments[NavigationArgs.token];
 
 var id = Get.arguments[NavigationArgs.id];
 

@@ -11,8 +11,8 @@ dependencies:
   shared_preferences: ^2.0.15
   cached_network_image: ^3.2.1
   flutter_svg: ^1.1.6
-  google_sign_in: ^5.0.7
-  flutter_login_facebook: ^1.6.2
+  google_sign_in: ^6.2.1
+  flutter_login_facebook: ^1.9.0
   flutter_switch: ^0.3.2
   country_pickers: ^2.0.0
   flutter_svg_provider: ^1.0.3
